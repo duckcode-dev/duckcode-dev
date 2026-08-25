@@ -28,5 +28,5 @@
 
 ## 📫 Contact
 
-- LinkedIn: [Patricio Fernández](https://www.linkedin.com/in/patricio-antonio-fernandez)
+- LinkedIn: LinkedIn: [linkedin.com/in/patriciofernandez](https://www.linkedin.com/in/patriciofernandez/)
 - Email: patricio.fernandez.it@gmail.com
