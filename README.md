@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Patricio Fernández
 
-<!--
-**duckcode-dev/duckcode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer focused on Backend Development**  
+🚀 Building projects with **Java, Spring Boot, REST APIs and PostgreSQL**  
+📚 Currently improving my skills in **Backend, Cloud and English**  
+🎯 Goal: become a stronger Backend Java Developer and work on real-world software solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Backend:** Java, Spring Boot, REST APIs, JPA/Hibernate  
+**Databases:** PostgreSQL, MySQL, SQL  
+**Tools:** Git, GitHub, Docker, VS Code, IntelliJ IDEA  
+**Cloud:** AWS basics  
+**Other:** UML, JavaFX, Object-Oriented Programming, SOLID principles  
+
+---
+
+## 📌 Currently Learning
+
+- Advanced Java backend development
+- Spring Boot best practices
+- Docker and cloud deployment
+- English for international opportunities
+
+---
+
+## 📫 Contact
+
+- LinkedIn: linkedin.com/in/patricio-antonio-fernandez
+- Email: patricio.fernandez.it@gmail.com
