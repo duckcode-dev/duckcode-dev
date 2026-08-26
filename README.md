@@ -2,8 +2,9 @@
 
 💻 **Software Engineer focused on Backend Development**  
 🚀 Building projects with **Java, Spring Boot, REST APIs and PostgreSQL**  
-📚 Currently improving my skills in **Backend, Cloud and English**  
-🎯 Goal: become a stronger Backend Java Developer and work on real-world software solutions  
+📚 Currently improving my skills in **Backend, Cloud and English**
+🤖 Adopting AI-powered tools to achieve greater efficiency and productivity in software development.
+🎯 Goal: Grow every day as a Java Developer while building real-world software solutions.  
 
 ---
 
@@ -11,8 +12,9 @@
 
 **Backend:** Java, Spring Boot, REST APIs, JPA/Hibernate  
 **Databases:** PostgreSQL, MySQL, SQL  
-**Tools:** Git, GitHub, Docker, VS Code, IntelliJ IDEA  
-**Cloud:** AWS basics  
+**Tools:** Git, GitHub, Docker, VS Code, Cursor  
+**Cloud:** AWS basics
+**AI tool:** Codex, Claude Code, OpenCode, Warp
 **Other:** UML, JavaFX, Object-Oriented Programming, SOLID principles  
 
 ---
