@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Patricio Fernández
 
-💻 **Software Engineer focused on Backend Development**  
-🚀 Building projects with **Java, Spring Boot, REST APIs and PostgreSQL**  
-📚 Currently improving my skills in **Backend, Cloud and English**
-🤖 Adopting AI-powered tools to achieve greater efficiency and productivity in software development.
+💻 **Software Engineer focused on Backend Development**<br>  
+🚀 Building projects with **Java, Spring Boot, REST APIs and PostgreSQL**<br>  
+📚 Currently improving my skills in **Backend, Cloud and English**<br>
+🤖 Adopting AI-powered tools to achieve greater efficiency and productivity in software development.<br>
 🎯 Goal: Grow every day as a Java Developer while building real-world software solutions.  
 
 ---
