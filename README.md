@@ -3,8 +3,8 @@
 💻 **Software Engineer focused on Backend Development**<br> 
 🚀 Building projects with **Java, Spring Boot, REST APIs and PostgreSQL**  
 📚 Currently improving my skills in **Backend, Cloud and English**<br>
-🤖 Adopting AI tools to improve efficiency and productivity.<br>
-🎯 Goal: Grow every day as a Java Developer while building real-world software solutions.  
+🤖 Adopting **AI tools** to improve efficiency and productivity.<br>
+🎯 Goal: Grow every day as a **Java Developer** while building real-world software solutions.  
 
 ---
 
